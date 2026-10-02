@@ -1,0 +1,7 @@
+{
+  "name": "__SKILL_NAME__",
+  "version": "0.1.0",
+  "description": "このスキルの説明を 1 文で書く",
+  "author": { "name": "Daichi Hoshina" },
+  "license": "MIT"
+}
